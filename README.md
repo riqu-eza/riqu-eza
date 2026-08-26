@@ -18,9 +18,9 @@
 ### 💻 **Full-Stack Developer** | **Open Source Enthusiast** | **Automation Engineer**
 > *Building operational software - role-based web apps, backend systems, and automation tooling.*
 
-📍 **Location:** Nairobi, Kenya
-📧 **Email:** vickymuthunga@gmail.com
-🌐 **Website:** dancahdynamics.com
+##📍 **Location:** Nairobi, Kenya
+##📧 **Email:** vickymuthunga@gmail.com
+##🌐 **Website:** dancahdynamics.com
 
 ---
 ## 🧭 How I Work
