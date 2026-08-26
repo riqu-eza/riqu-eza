@@ -1,4 +1,4 @@
-<!--
+
   _  __            _   _       _   _           
  | |/ /           | | | |     | | | |          
  | ' /  __ _  __ _| |_| |__   | |_| |__   ___  
@@ -7,7 +7,7 @@
  |_|\_\\__,_|\__, |\__|_| |_|  \__|_| |_|\___| 
                __/ |                            
               |___/                             
--->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6B6B&height=200&section=header&text=Kang'ethe%20Muthunga&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" alt="Banner"/>
 </div>
